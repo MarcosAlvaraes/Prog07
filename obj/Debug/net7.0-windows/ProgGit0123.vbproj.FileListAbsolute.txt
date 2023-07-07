@@ -1,0 +1,84 @@
+C:\ProjGit0123\ProgGit0123\bin\Debug\net7.0-windows\ProgGit0123.exe
+C:\ProjGit0123\ProgGit0123\bin\Debug\net7.0-windows\ProgGit0123.deps.json
+C:\ProjGit0123\ProgGit0123\bin\Debug\net7.0-windows\ProgGit0123.runtimeconfig.json
+C:\ProjGit0123\ProgGit0123\bin\Debug\net7.0-windows\ProgGit0123.dll
+C:\ProjGit0123\ProgGit0123\bin\Debug\net7.0-windows\ProgGit0123.pdb
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.vbproj.AssemblyReference.cache
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.Form1.resources
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.vbproj.GenerateResource.cache
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.AssemblyInfoInputs.cache
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.AssemblyInfo.vb
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.vbproj.CoreCompileInputs.cache
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.dll
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\refint\ProgGit0123.dll
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.pdb
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.genruntimeconfig.cache
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ref\ProgGit0123.dll
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.Form2.resources
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.Form3.resources
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.Form4.resources
+C:\ProjGit0123\ProgGit0123\obj\Debug\net7.0-windows\ProgGit0123.Form5.resources
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\bin\Debug\net7.0-windows\ProgGit0123.exe
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\bin\Debug\net7.0-windows\ProgGit0123.deps.json
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\bin\Debug\net7.0-windows\ProgGit0123.runtimeconfig.json
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\bin\Debug\net7.0-windows\ProgGit0123.dll
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\bin\Debug\net7.0-windows\ProgGit0123.pdb
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.vbproj.AssemblyReference.cache
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.Form1.resources
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.Form2.resources
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.Form3.resources
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.Form4.resources
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.Form5.resources
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.vbproj.GenerateResource.cache
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.AssemblyInfoInputs.cache
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.AssemblyInfo.vb
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.vbproj.CoreCompileInputs.cache
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.dll
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\refint\ProgGit0123.dll
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.pdb
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ProgGit0123.genruntimeconfig.cache
+C:\Formacao\J+D LPJAVA\TURMA .NET 01-23\MDS\Ficheiros GIT Prog 0123\obj\Debug\net7.0-windows\ref\ProgGit0123.dll
+C:\Users\admin\Desktop\GitFilipa\Prog07\bin\Debug\net7.0-windows\ProgGit0123.exe
+C:\Users\admin\Desktop\GitFilipa\Prog07\bin\Debug\net7.0-windows\ProgGit0123.deps.json
+C:\Users\admin\Desktop\GitFilipa\Prog07\bin\Debug\net7.0-windows\ProgGit0123.runtimeconfig.json
+C:\Users\admin\Desktop\GitFilipa\Prog07\bin\Debug\net7.0-windows\ProgGit0123.dll
+C:\Users\admin\Desktop\GitFilipa\Prog07\bin\Debug\net7.0-windows\ProgGit0123.pdb
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.vbproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.Form1.resources
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.Form2.resources
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.Form3.resources
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.Form4.resources
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.Form5.resources
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.AssemblyInfo.vb
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.dll
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\refint\ProgGit0123.dll
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.pdb
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ProgGit0123.genruntimeconfig.cache
+C:\Users\admin\Desktop\GitFilipa\Prog07\obj\Debug\net7.0-windows\ref\ProgGit0123.dll
+C:\Users\hp\Downloads\Prog07-main\bin\Debug\net7.0-windows\ProgGit0123.exe
+C:\Users\hp\Downloads\Prog07-main\bin\Debug\net7.0-windows\ProgGit0123.deps.json
+C:\Users\hp\Downloads\Prog07-main\bin\Debug\net7.0-windows\ProgGit0123.runtimeconfig.json
+C:\Users\hp\Downloads\Prog07-main\bin\Debug\net7.0-windows\ProgGit0123.dll
+C:\Users\hp\Downloads\Prog07-main\bin\Debug\net7.0-windows\ProgGit0123.pdb
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.vbproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.Form1.resources
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.Form2.resources
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.Form3.resources
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.Form4.resources
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.Form5.resources
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.vbproj.GenerateResource.cache
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.AssemblyInfo.vb
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.dll
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\refint\ProgGit0123.dll
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.pdb
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ProgGit0123.genruntimeconfig.cache
+C:\Users\hp\Downloads\Prog07-main\obj\Debug\net7.0-windows\ref\ProgGit0123.dll
